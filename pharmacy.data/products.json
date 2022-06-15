@@ -1,0 +1,68 @@
+[{
+  "_id": {
+    "$oid": "62636e30cdb4c8a60b1e5047"
+  },
+  "name": "Senac",
+  "genericName": "Senac",
+  "totalQuantity": 22,
+  "price": 10,
+  "supplier": {
+    "$oid": "625f967e63930da1f70a435d"
+  },
+  "stocks": [
+    {
+      "$oid": "6270c8badb9b21aba1728985"
+    }
+  ],
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "62636e39cdb4c8a60b1e504b"
+  },
+  "name": "Dolo",
+  "genericName": "Dolo",
+  "totalQuantity": 45,
+  "price": 15,
+  "supplier": {
+    "$oid": "625f967e63930da1f70a435d"
+  },
+  "stocks": [
+    {
+      "$oid": "62636ef6cdb4c8a60b1e506f"
+    }
+  ],
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "62636e48cdb4c8a60b1e504f"
+  },
+  "name": "Pera",
+  "genericName": "Pera",
+  "totalQuantity": 55,
+  "price": 5,
+  "supplier": {
+    "$oid": "626e7e6a4d65e6769d26a32d"
+  },
+  "stocks": [
+    {
+      "$oid": "626dd900971ef2c8aa3d7f76"
+    },
+    {
+      "$oid": "6270c558db9b21aba1728915"
+    }
+  ],
+  "__v": 10
+},{
+  "_id": {
+    "$oid": "626f3da9a07eba70b285ef5c"
+  },
+  "name": "Uroxatral",
+  "genericName": "Alfuzosin HCL",
+  "totalQuantity": 0,
+  "price": 4,
+  "supplier": {
+    "$oid": "626e7e6a4d65e6769d26a32d"
+  },
+  "stocks": [],
+  "__v": 20
+}]

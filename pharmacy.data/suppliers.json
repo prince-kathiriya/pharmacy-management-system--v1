@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "625f967e63930da1f70a435d"
+  },
+  "name": "John",
+  "email": "john@gmail.com",
+  "mobile": {
+    "$numberLong": "9995556661"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626e7e6a4d65e6769d26a32d"
+  },
+  "name": "Peter",
+  "email": "peter@gmail.com",
+  "mobile": {
+    "$numberLong": "9911212117"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626fc4bbde568cfd5c562d3a"
+  },
+  "name": "Brent",
+  "email": "brent@gmail.com",
+  "mobile": {
+    "$numberLong": "9845652312"
+  },
+  "__v": 0
+}]

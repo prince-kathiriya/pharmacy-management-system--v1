@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "62636ef6cdb4c8a60b1e506f"
+  },
+  "product": {
+    "$oid": "62636e39cdb4c8a60b1e504b"
+  },
+  "batch": "D2",
+  "expDate": {
+    "$date": {
+      "$numberLong": "1650479400000"
+    }
+  },
+  "mfgDate": {
+    "$date": {
+      "$numberLong": "1684607400000"
+    }
+  },
+  "quantity": 45,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "626dd900971ef2c8aa3d7f76"
+  },
+  "product": {
+    "$oid": "62636e48cdb4c8a60b1e504f"
+  },
+  "batch": "P1",
+  "expDate": {
+    "$date": {
+      "$numberLong": "1650479400000"
+    }
+  },
+  "mfgDate": {
+    "$date": {
+      "$numberLong": "1684607400000"
+    }
+  },
+  "quantity": 35,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6270c558db9b21aba1728915"
+  },
+  "product": {
+    "$oid": "62636e48cdb4c8a60b1e504f"
+  },
+  "batch": "P2",
+  "expDate": {
+    "$date": {
+      "$numberLong": "1653631316151"
+    }
+  },
+  "mfgDate": {
+    "$date": {
+      "$numberLong": "1651557712668"
+    }
+  },
+  "quantity": 20,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6270c8badb9b21aba1728985"
+  },
+  "product": {
+    "$oid": "62636e30cdb4c8a60b1e5047"
+  },
+  "batch": "S1",
+  "expDate": {
+    "$date": {
+      "$numberLong": "1652854580698"
+    }
+  },
+  "mfgDate": {
+    "$date": {
+      "$numberLong": "1652249778643"
+    }
+  },
+  "quantity": 22,
+  "__v": 0
+}]

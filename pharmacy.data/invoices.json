@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "627103e0099fa9ec8ca32cc6"
+  },
+  "customer": "Jems",
+  "date": {
+    "$date": {
+      "$numberLong": "1646418600000"
+    }
+  },
+  "grandTotal": 150,
+  "orderItems": [
+    {
+      "product": "Dolo",
+      "batch": "D1",
+      "quantity": 10,
+      "price": 15,
+      "total": 150,
+      "_id": {
+        "$oid": "627103e0099fa9ec8ca32cc7"
+      }
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "627108c2099fa9ec8ca32cfd"
+  },
+  "customer": "Max",
+  "date": {
+    "$date": {
+      "$numberLong": "1646418600000"
+    }
+  },
+  "grandTotal": 150,
+  "orderItems": [
+    {
+      "product": "Dolo",
+      "batch": "D1",
+      "quantity": 10,
+      "price": 15,
+      "total": 150,
+      "_id": {
+        "$oid": "627108c2099fa9ec8ca32cfe"
+      }
+    }
+  ],
+  "__v": 0
+}]
